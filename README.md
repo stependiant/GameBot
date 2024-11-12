@@ -1,1 +1,1 @@
-# Game Bot for Telegram
+# Game Bot for Telegramm
