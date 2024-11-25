@@ -9,7 +9,8 @@ import org.springframework.context.annotation.Configuration;
 @ConfigurationProperties(prefix = "telegrambot")
 @Getter
 @Setter
-public class BotConfig {
+public class BotProperties {
     private String botToken;
     private String botUsername;
+    private String botWebhookPath;
 }
