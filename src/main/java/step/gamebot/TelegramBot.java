@@ -1,4 +1,4 @@
-package step.gamebot.service;
+package step.gamebot;
 
 
 import org.springframework.stereotype.Component;
